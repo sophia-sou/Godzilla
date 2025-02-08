@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: c25e8eb8a028a1341863fd5143fcf4c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3921065046293376925
+    second: LaserSprite (2)_0
+  - first:
+      213: -5573153622672027456
+    second: LaserSprite (2)_1
+  - first:
+      213: -2627203282684990086
+    second: LaserSprite (2)_2
+  - first:
+      213: -1691876123368748892
+    second: LaserSprite (2)_3
+  - first:
+      213: -1309835648881854721
+    second: LaserSprite (2)_4
+  - first:
+      213: 6803066756491640644
+    second: LaserSprite (2)_5
+  - first:
+      213: -4708008838631150256
+    second: LaserSprite (2)_6
+  - first:
+      213: -8071792260822376157
+    second: LaserSprite (2)_7
+  - first:
+      213: -4411092344791429567
+    second: LaserSprite (2)_8
+  - first:
+      213: -194482515770465372
+    second: LaserSprite (2)_9
+  - first:
+      213: -2575164171406285693
+    second: LaserSprite (2)_10
+  - first:
+      213: -5802868967820480280
+    second: LaserSprite (2)_11
+  - first:
+      213: 472929871094707727
+    second: LaserSprite (2)_12
+  - first:
+      213: -5680704863855199181
+    second: LaserSprite (2)_13
+  - first:
+      213: -1049896330080425652
+    second: LaserSprite (2)_14
+  - first:
+      213: 8453819334728022924
+    second: LaserSprite (2)_15
+  - first:
+      213: -7202905867229812259
+    second: LaserSprite (2)_16
+  - first:
+      213: -4795872641040807082
+    second: LaserSprite (2)_17
+  - first:
+      213: 7703634639511479227
+    second: LaserSprite (2)_18
+  - first:
+      213: 8417076162230742667
+    second: LaserSprite (2)_19
+  - first:
+      213: -8555279305747625647
+    second: LaserSprite (2)_20
+  - first:
+      213: -1553979682285205911
+    second: LaserSprite (2)_21
+  - first:
+      213: -4142598108619372880
+    second: LaserSprite (2)_22
+  - first:
+      213: -3197879272747321928
+    second: LaserSprite (2)_23
+  - first:
+      213: -2039835862539160557
+    second: LaserSprite (2)_24
+  - first:
+      213: 4564732167592707834
+    second: LaserSprite (2)_25
+  - first:
+      213: -768903664752857228
+    second: LaserSprite (2)_26
+  - first:
+      213: -7613190239785185039
+    second: LaserSprite (2)_27
+  - first:
+      213: 389735652523017226
+    second: LaserSprite (2)_28
+  - first:
+      213: 8961469481192425339
+    second: LaserSprite (2)_29
+  - first:
+      213: 2753300108242848196
+    second: LaserSprite (2)_30
+  - first:
+      213: -7742882802367392883
+    second: LaserSprite (2)_31
+  - first:
+      213: -4143577891596621785
+    second: LaserSprite (2)_32
+  - first:
+      213: -5611012206765356988
+    second: LaserSprite (2)_33
+  - first:
+      213: -2247654868089582414
+    second: LaserSprite (2)_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 3
+    wrapV: 3
+    wrapW: 3
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserSprite (2)_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 297
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f648982eb6a6630800000000000000
+      internalID: 3921065046293376925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 297
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d3f9de4e28a2b0800000000000000
+      internalID: -5573153622672027456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 297
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d22dea88c4a8bd0800000000000000
+      internalID: -2627203282684990086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 297
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a804a631af3588e0800000000000000
+      internalID: -1691876123368748892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 297
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6f04aca6782dde0800000000000000
+      internalID: -1309835648881854721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 297
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff3fbbb29596e50800000000000000
+      internalID: 6803066756491640644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 297
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dadf5c7eac9aeb0800000000000000
+      internalID: -4708008838631150256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 297
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3216fe874bb3bff80800000000000000
+      internalID: -8071792260822376157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 297
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e034522e6a8c2c0800000000000000
+      internalID: -4411092344791429567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 219
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a32a7cae2f0d4df0800000000000000
+      internalID: -194482515770465372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 219
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e30574dd234cd0800000000000000
+      internalID: -2575164171406285693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03cee2b61187fa0800000000000000
+      internalID: -5802868967820480280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06754a463f209600800000000000000
+      internalID: 472929871094707727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cb31426051a21b0800000000000000
+      internalID: -5680704863855199181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 219
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e192b9d40e61f0800000000000000
+      internalID: -1049896330080425652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 219
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bfac905eff15570800000000000000
+      internalID: 8453819334728022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 219
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a031c6432a0c90800000000000000
+      internalID: -7202905867229812259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 219
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8fba1e33a17db0800000000000000
+      internalID: -4795872641040807082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 145
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e97793eec8ea60800000000000000
+      internalID: 7703634639511479227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 145
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eeb298c267fc470800000000000000
+      internalID: 8417076162230742667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15989aa9cca854980800000000000000
+      internalID: -8555279305747625647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 145
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966473956b72f6ae0800000000000000
+      internalID: -1553979682285205911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 145
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b68988f7f88286c0800000000000000
+      internalID: -4142598108619372880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 145
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bf499eb9de93d0800000000000000
+      internalID: -3197879272747321928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 145
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314304d271c01b3e0800000000000000
+      internalID: -2039835862539160557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 145
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af68920b8bf295f30800000000000000
+      internalID: 4564732167592707834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 70
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fe8e3d03e4455f0800000000000000
+      internalID: -768903664752857228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 71
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0122630d3885690800000000000000
+      internalID: -7613190239785185039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0480f4d28e986500800000000000000
+      internalID: 389735652523017226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778af363098d5c70800000000000000
+      internalID: 8961469481192425339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 70
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c90cdf5cdfa53620800000000000000
+      internalID: 2753300108242848196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 71
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8319636d11cb8490800000000000000
+      internalID: -7742882802367392883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 71
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728a8387cdd0f76c0800000000000000
+      internalID: -4143577891596621785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 71
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ce59502ea122b0800000000000000
+      internalID: -5611012206765356988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserSprite (2)_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 71
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc7d95ec9bec0e0800000000000000
+      internalID: -2247654868089582414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LaserSprite (2)_0: 3921065046293376925
+      LaserSprite (2)_1: -5573153622672027456
+      LaserSprite (2)_10: -2575164171406285693
+      LaserSprite (2)_11: -5802868967820480280
+      LaserSprite (2)_12: 472929871094707727
+      LaserSprite (2)_13: -5680704863855199181
+      LaserSprite (2)_14: -1049896330080425652
+      LaserSprite (2)_15: 8453819334728022924
+      LaserSprite (2)_16: -7202905867229812259
+      LaserSprite (2)_17: -4795872641040807082
+      LaserSprite (2)_18: 7703634639511479227
+      LaserSprite (2)_19: 8417076162230742667
+      LaserSprite (2)_2: -2627203282684990086
+      LaserSprite (2)_20: -8555279305747625647
+      LaserSprite (2)_21: -1553979682285205911
+      LaserSprite (2)_22: -4142598108619372880
+      LaserSprite (2)_23: -3197879272747321928
+      LaserSprite (2)_24: -2039835862539160557
+      LaserSprite (2)_25: 4564732167592707834
+      LaserSprite (2)_26: -768903664752857228
+      LaserSprite (2)_27: -7613190239785185039
+      LaserSprite (2)_28: 389735652523017226
+      LaserSprite (2)_29: 8961469481192425339
+      LaserSprite (2)_3: -1691876123368748892
+      LaserSprite (2)_30: 2753300108242848196
+      LaserSprite (2)_31: -7742882802367392883
+      LaserSprite (2)_32: -4143577891596621785
+      LaserSprite (2)_33: -5611012206765356988
+      LaserSprite (2)_34: -2247654868089582414
+      LaserSprite (2)_4: -1309835648881854721
+      LaserSprite (2)_5: 6803066756491640644
+      LaserSprite (2)_6: -4708008838631150256
+      LaserSprite (2)_7: -8071792260822376157
+      LaserSprite (2)_8: -4411092344791429567
+      LaserSprite (2)_9: -194482515770465372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

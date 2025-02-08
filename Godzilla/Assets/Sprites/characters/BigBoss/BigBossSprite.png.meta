@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5565b73bc03ac3147b3e86745a0b831e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1438131501755942626
+    second: BigBossSprite_0
+  - first:
+      213: 3257921331812459337
+    second: BigBossSprite_1
+  - first:
+      213: -324816396742232684
+    second: BigBossSprite_2
+  - first:
+      213: 5691517048683292402
+    second: BigBossSprite_3
+  - first:
+      213: -3524381506751671536
+    second: BigBossSprite_4
+  - first:
+      213: -3341717182854242328
+    second: BigBossSprite_5
+  - first:
+      213: -8500902105563943277
+    second: BigBossSprite_6
+  - first:
+      213: -1403410227332935179
+    second: BigBossSprite_7
+  - first:
+      213: -3712876399359197334
+    second: BigBossSprite_8
+  - first:
+      213: -6408027044244728177
+    second: BigBossSprite_9
+  - first:
+      213: -8758480693217122223
+    second: BigBossSprite_10
+  - first:
+      213: 3163927283480944636
+    second: BigBossSprite_11
+  - first:
+      213: 1195685665554076060
+    second: BigBossSprite_12
+  - first:
+      213: -4261553214162186928
+    second: BigBossSprite_13
+  - first:
+      213: -4938731978012346473
+    second: BigBossSprite_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigBossSprite_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 515
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b989c40bba0ce0800000000000000
+      internalID: -1438131501755942626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 515
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94369d8a036763d20800000000000000
+      internalID: 3257921331812459337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 515
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f4f645350e7bf0800000000000000
+      internalID: -324816396742232684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 404
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e8dfc9945cfe40800000000000000
+      internalID: 5691517048683292402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 404
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0135c1d41b1e61fc0800000000000000
+      internalID: -3524381506751671536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 405
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef57286de5df91d0800000000000000
+      internalID: -3341717182854242328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 290
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ead7f139ab60a80800000000000000
+      internalID: -8500902105563943277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 290
+        width: 121
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f19ba575d5168ce0800000000000000
+      internalID: -1403410227332935179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 290
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f73412696397cc0800000000000000
+      internalID: -3712876399359197334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 181
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8652bcba5d1217a0800000000000000
+      internalID: -6408027044244728177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 181
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582da4c630a37680800000000000000
+      internalID: -8758480693217122223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 181
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff5c03e91788eb20800000000000000
+      internalID: 3163927283480944636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 66
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91906e17cde79010800000000000000
+      internalID: 1195685665554076060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 66
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d407e2eebebd4c0800000000000000
+      internalID: -4261553214162186928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBossSprite_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 121
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79736b9be69167bb0800000000000000
+      internalID: -4938731978012346473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BigBossSprite_0: -1438131501755942626
+      BigBossSprite_1: 3257921331812459337
+      BigBossSprite_10: -8758480693217122223
+      BigBossSprite_11: 3163927283480944636
+      BigBossSprite_12: 1195685665554076060
+      BigBossSprite_13: -4261553214162186928
+      BigBossSprite_14: -4938731978012346473
+      BigBossSprite_2: -324816396742232684
+      BigBossSprite_3: 5691517048683292402
+      BigBossSprite_4: -3524381506751671536
+      BigBossSprite_5: -3341717182854242328
+      BigBossSprite_6: -8500902105563943277
+      BigBossSprite_7: -1403410227332935179
+      BigBossSprite_8: -3712876399359197334
+      BigBossSprite_9: -6408027044244728177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

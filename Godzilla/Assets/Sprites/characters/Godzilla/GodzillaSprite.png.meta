@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 2520fd4db187b464aac79be34326f2b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5650239640035454478
+    second: GodzillaSprite_0
+  - first:
+      213: -2831991849639400418
+    second: GodzillaSprite_1
+  - first:
+      213: -1979764469470136250
+    second: GodzillaSprite_2
+  - first:
+      213: -6690972425479236414
+    second: GodzillaSprite_3
+  - first:
+      213: -3305412994816383756
+    second: GodzillaSprite_4
+  - first:
+      213: 3958688676520024099
+    second: GodzillaSprite_5
+  - first:
+      213: 7071135688973471519
+    second: GodzillaSprite_6
+  - first:
+      213: -836943916624254026
+    second: GodzillaSprite_7
+  - first:
+      213: -5644547118815622003
+    second: GodzillaSprite_8
+  - first:
+      213: 2859891186137770113
+    second: GodzillaSprite_9
+  - first:
+      213: -2535485501304150475
+    second: GodzillaSprite_10
+  - first:
+      213: 972830729903674492
+    second: GodzillaSprite_11
+  - first:
+      213: 7310869958147678080
+    second: GodzillaSprite_12
+  - first:
+      213: 6642498626810785544
+    second: GodzillaSprite_13
+  - first:
+      213: -2047917864507620181
+    second: GodzillaSprite_14
+  - first:
+      213: 4002152778476614019
+    second: GodzillaSprite_15
+  - first:
+      213: 1322633677864448133
+    second: GodzillaSprite_16
+  - first:
+      213: -6650746941337734976
+    second: GodzillaSprite_17
+  - first:
+      213: 8392526341446185540
+    second: GodzillaSprite_18
+  - first:
+      213: 8439182780034690138
+    second: GodzillaSprite_19
+  - first:
+      213: 1861100122359154541
+    second: GodzillaSprite_20
+  - first:
+      213: -4568107167447168068
+    second: GodzillaSprite_21
+  - first:
+      213: -8890897548488326112
+    second: GodzillaSprite_22
+  - first:
+      213: 7732036959604442854
+    second: GodzillaSprite_23
+  - first:
+      213: 2843275028723625449
+    second: GodzillaSprite_24
+  - first:
+      213: 8672183776068384847
+    second: GodzillaSprite_25
+  - first:
+      213: 6277887519205087157
+    second: GodzillaSprite_26
+  - first:
+      213: -7711500097054660201
+    second: GodzillaSprite_27
+  - first:
+      213: 3812270351579159496
+    second: GodzillaSprite_28
+  - first:
+      213: 2305997148607723325
+    second: GodzillaSprite_29
+  - first:
+      213: 4266130987689621462
+    second: GodzillaSprite_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GodzillaSprite_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 364
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee420340fa96e40800000000000000
+      internalID: 5650239640035454478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 364
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2173da6eb2b8d0800000000000000
+      internalID: -2831991849639400418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 365
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fa4a44b67684e0800000000000000
+      internalID: -1979764469470136250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 365
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c450618704e423a0800000000000000
+      internalID: -6690972425479236414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 397
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f46200e460d022d0800000000000000
+      internalID: -3305412994816383756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 397
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3285654906610f630800000000000000
+      internalID: 3958688676520024099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 397
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fc9d3d178b12260800000000000000
+      internalID: 7071135688973471519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 397
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbefa031f39264f0800000000000000
+      internalID: -836943916624254026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 288
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4a013d4a8aa1b0800000000000000
+      internalID: -5644547118815622003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 288
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1882306a1ef50b720800000000000000
+      internalID: 2859891186137770113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 289
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536ec91ce5520dcd0800000000000000
+      internalID: -2535485501304150475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 288
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c741e720560308d00800000000000000
+      internalID: 972830729903674492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f97760e7d657560800000000000000
+      internalID: 7310869958147678080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 321
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa310ce45ee2c50800000000000000
+      internalID: 6642498626810785544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 232
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c8d47d855493e0800000000000000
+      internalID: -2047917864507620181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 232
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f0f96fb08a8730800000000000000
+      internalID: 4002152778476614019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 232
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58034198250fa5210800000000000000
+      internalID: 1322633677864448133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 232
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07c8ed4ecc3b3a0800000000000000
+      internalID: -6650746941337734976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 241
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4423206fd3e387470800000000000000
+      internalID: 8392526341446185540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 241
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5caf8696000e1570800000000000000
+      internalID: 8439182780034690138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 157
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6747a463b4f3d910800000000000000
+      internalID: 1861100122359154541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb456cebb2da90c0800000000000000
+      internalID: -4568107167447168068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02446ff19cf2d9480800000000000000
+      internalID: -8890897548488326112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 157
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e60a6f06a6bd4b60800000000000000
+      internalID: 7732036959604442854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 156
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6fc50397557720800000000000000
+      internalID: 2843275028723625449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 156
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4836777239c95870800000000000000
+      internalID: 8672183776068384847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 156
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d312ef698f1750800000000000000
+      internalID: 6277887519205087157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 156
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799aaadd48f3bf490800000000000000
+      internalID: -7711500097054660201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 93
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb11adbfa7e7e430800000000000000
+      internalID: 3812270351579159496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b3df503c800020800000000000000
+      internalID: 2305997148607723325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodzillaSprite_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b686c787543b30800000000000000
+      internalID: 4266130987689621462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GodzillaSprite_0: 5650239640035454478
+      GodzillaSprite_1: -2831991849639400418
+      GodzillaSprite_10: -2535485501304150475
+      GodzillaSprite_11: 972830729903674492
+      GodzillaSprite_12: 7310869958147678080
+      GodzillaSprite_13: 6642498626810785544
+      GodzillaSprite_14: -2047917864507620181
+      GodzillaSprite_15: 4002152778476614019
+      GodzillaSprite_16: 1322633677864448133
+      GodzillaSprite_17: -6650746941337734976
+      GodzillaSprite_18: 8392526341446185540
+      GodzillaSprite_19: 8439182780034690138
+      GodzillaSprite_2: -1979764469470136250
+      GodzillaSprite_20: 1861100122359154541
+      GodzillaSprite_21: -4568107167447168068
+      GodzillaSprite_22: -8890897548488326112
+      GodzillaSprite_23: 7732036959604442854
+      GodzillaSprite_24: 2843275028723625449
+      GodzillaSprite_25: 8672183776068384847
+      GodzillaSprite_26: 6277887519205087157
+      GodzillaSprite_27: -7711500097054660201
+      GodzillaSprite_28: 3812270351579159496
+      GodzillaSprite_29: 2305997148607723325
+      GodzillaSprite_3: -6690972425479236414
+      GodzillaSprite_30: 4266130987689621462
+      GodzillaSprite_4: -3305412994816383756
+      GodzillaSprite_5: 3958688676520024099
+      GodzillaSprite_6: 7071135688973471519
+      GodzillaSprite_7: -836943916624254026
+      GodzillaSprite_8: -5644547118815622003
+      GodzillaSprite_9: 2859891186137770113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
