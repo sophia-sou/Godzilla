@@ -10,13 +10,18 @@ public class SpikeCollision : MonoBehaviour
     {
         if (other.collider.name.Contains(Godzilla.name))
         {
-
+            //instantiate skull before dead
             Vector3 godzillaPosition = transform.position;
 
             GameObject skull = Instantiate(skullPrefab, godzillaPosition, Quaternion.identity);
 
             Destroy(Godzilla);
             Destroy(skull, 2f);
+
+            //store current scene index
+            int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
+            PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
+            PlayerPrefs.Save();
 
             SceneManager.LoadScene("GameOver");
         }

@@ -60,6 +60,8 @@ public class GodzillaHealth : MonoBehaviour
 
     private void godzillaDead()
     {
+
+        //instantiate skull before dead
         Vector3 godzillaPosition = transform.position;
 
         GameObject skull = Instantiate(skullPrefab, godzillaPosition, Quaternion.identity);
@@ -67,6 +69,11 @@ public class GodzillaHealth : MonoBehaviour
         Destroy(gameObject);
 
         Destroy(skull, 2f);
+
+        //store current level index
+        int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
+        PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
+        PlayerPrefs.Save();
     }
 
     private void DestroyHeart()

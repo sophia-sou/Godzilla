@@ -328,6 +328,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tankLaser: {fileID: 0}
+  heart1: {fileID: 0}
+  heart2: {fileID: 0}
+  heart3: {fileID: 0}
+  heart4: {fileID: 0}
+  heart5: {fileID: 0}
+  skullPrefab: {fileID: 0}
   health: 100
 --- !u!1001 &699330517293618990
 PrefabInstance:
