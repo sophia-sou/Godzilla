@@ -148,3 +148,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Godzilla: {fileID: 0}
+  skullPrefab: {fileID: 0}

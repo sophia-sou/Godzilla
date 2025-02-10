@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -5335237918689615360}
   - component: {fileID: -8122259538209541070}
   - component: {fileID: -2811433730783838416}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Tank Laser ToBe
   m_TagString: bullet
   m_Icon: {fileID: 0}
