@@ -8,8 +8,6 @@ public class HelicopterIgnoreCollision : MonoBehaviour
         if (other.gameObject.CompareTag("helicopter")) 
         {
             Physics2D.IgnoreCollision(other.collider, GetComponent<Collider2D>());
-
-            Debug.Log("2D Collision ignored with " + other.gameObject.name);
         }
     }
 }

@@ -3,7 +3,7 @@ using UnityEngine;
 
 
 public class HelicopterDestraction : MonoBehaviour
-{//DEN DOYLEYEI
+{
     public GameObject fireball;
     public GameObject laserPrefab;
 
@@ -14,7 +14,7 @@ public class HelicopterDestraction : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Debug.Log("nn");
+        
         if (collision.collider.name.Contains(fireball.name))
         {
             Vector3 helicopterPosition = transform.position;

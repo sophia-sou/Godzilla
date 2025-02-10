@@ -10,7 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7392241371519699615}
   - component: {fileID: 6162281018390897707}
-  - component: {fileID: -5436261841510058425}
+  - component: {fileID: 6889412559173219232}
+  - component: {fileID: 8163441476064461240}
   m_Layer: 0
   m_Name: SkullSprite
   m_TagString: Untagged
@@ -88,26 +89,39 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!82 &-5436261841510058425
+--- !u!114 &6889412559173219232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926295131579582379}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1b573de70c00da44906fd4e4ca83fb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnSound: {fileID: 8300000, guid: 0860fddd827eb0e408a02271e2c6846f, type: 3}
+--- !u!82 &8163441476064461240
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926295131579582379}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0860fddd827eb0e408a02271e2c6846f, type: 3}
   m_Resource: {fileID: 8300000, guid: 0860fddd827eb0e408a02271e2c6846f, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 126
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500

@@ -3,8 +3,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
+using System;
+
+using System.Linq;
+using System.IO;
+
+
 public class GodzillaHealth : MonoBehaviour
 {
+    public static int previousSceneIndex;
+
     Rigidbody2D rb;
     public GameObject tankLaser;
     public GameObject heart1;
@@ -14,47 +22,54 @@ public class GodzillaHealth : MonoBehaviour
     public GameObject heart5;
     public GameObject skullPrefab;
 
+    //Audio
+    public AudioSource source;
+    public AudioClip skullSound;
+
+
     // starting health value
     public int health = 100;
+
+    //scene save
+    private string filePath;
 
     private void Start()
     {
         rb = gameObject.GetComponent<Rigidbody2D>();
+
+        previousSceneIndex = SceneManager.GetActiveScene().buildIndex;
     }
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("Collision detected with: " /* + other.gameObject.name*/);
-
         // decrease health if collision with bullet (Laser To Be) 
         if (other.collider.name.Contains(tankLaser.name))
             {
             health -= 5;
             Destroy(other.gameObject);
 
-            Debug.Log("Godzilla hit by bullet! Health: " + health);
-
             DestroyHeart();
 
+            //die if no health
             if (health <= 0)
             {
                 health = 0;
                 DestroyHeart();
+                playSkullAudio();
 
                 godzillaDead();
                 SceneManager.LoadScene("GameOver");
             }
         }
-        // die if collision with other
-        
+        // die if collision with helicopter
         if (other.gameObject.CompareTag("helicopter"))
         {
             health = 0;
             DestroyHeart();
+            playSkullAudio();
 
             godzillaDead();
             SceneManager.LoadScene("GameOver");
-            Debug.Log("Godzilla hit by tank or helicopter! Health: " + health);
         }
     }
 
@@ -65,15 +80,32 @@ public class GodzillaHealth : MonoBehaviour
         Vector3 godzillaPosition = transform.position;
 
         GameObject skull = Instantiate(skullPrefab, godzillaPosition, Quaternion.identity);
-
-        Destroy(gameObject);
+        Destroy(gameObject, 1f);
 
         Destroy(skull, 2f);
 
-        //store current level index
-        int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
-        PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
-        PlayerPrefs.Save();
+        ////store current level index
+        //int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
+        //PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
+        //PlayerPrefs.Save();
+    }
+
+    private void OnApplicationQuit()
+    {
+        filePath = Path.Combine(Application.persistentDataPath, "savedNumber.txt");
+        SaveNumber(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    void SaveNumber(int number)
+    {
+        File.WriteAllText(filePath, number.ToString());
+        Debug.Log("Number saved: " + number);
+    }
+
+
+    private void playSkullAudio()
+    {
+        source.PlayOneShot(skullSound);
     }
 
     private void DestroyHeart()
@@ -99,5 +131,5 @@ public class GodzillaHealth : MonoBehaviour
             Destroy(heart1);
         }
     }
-
+    
 }

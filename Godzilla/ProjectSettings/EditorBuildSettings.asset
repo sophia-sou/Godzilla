@@ -26,6 +26,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WinningScene.unity
     guid: f4c5feb49f8627f4a953103b0f2a02ad
+  - enabled: 1
+    path: Assets/Scenes/ChooseLevelScene.unity
+    guid: 9e8db1625f8219f4bb4dd51bd28ef84f
+  - enabled: 1
+    path: Assets/Scenes/HighScores.unity
+    guid: 8c7fa224003cb48439d6584cc2d7caf4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

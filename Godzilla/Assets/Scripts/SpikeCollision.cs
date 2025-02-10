@@ -18,11 +18,6 @@ public class SpikeCollision : MonoBehaviour
             Destroy(Godzilla);
             Destroy(skull, 2f);
 
-            //store current scene index
-            int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
-            PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
-            PlayerPrefs.Save();
-
             SceneManager.LoadScene("GameOver");
         }
     }

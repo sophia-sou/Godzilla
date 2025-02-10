@@ -334,6 +334,8 @@ MonoBehaviour:
   heart4: {fileID: 0}
   heart5: {fileID: 0}
   skullPrefab: {fileID: 0}
+  source: {fileID: 0}
+  skullSound: {fileID: 0}
   health: 100
 --- !u!1001 &699330517293618990
 PrefabInstance:

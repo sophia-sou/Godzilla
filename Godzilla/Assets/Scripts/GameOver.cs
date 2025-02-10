@@ -1,29 +1,22 @@
+using System.IO;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameOver: MonoBehaviour
+public class GameOver : MonoBehaviour
 
 {
-    private int previousSceneIndex;
-
-    private void Start()
-    {
-        //int previousSceneIndex = PlayerPrefs.GetInt("PreviousSceneIndex", 0);
-        
-        previousSceneIndex = PlayerPrefs.GetInt("LastPlayedLevel", 1);
-
-        Debug.Log("you lost and prev scene is" + previousSceneIndex);  
-    }
+    //private int previousSceneIndex;
+    private int prevScene = GodzillaHealth.previousSceneIndex;
 
     public void PlayAgain()
     {
-        // check if this code line actually leads to the NEXT LEVEL
-
-        SceneManager.LoadScene(previousSceneIndex);
+        SceneManager.LoadScene(prevScene);
     }
 
     public void MainMenu()
     {
         SceneManager.LoadScene("StartMenu"); //Go to main menu
     }
+
 }

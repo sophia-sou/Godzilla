@@ -11,11 +11,12 @@ public class WinningScript : MonoBehaviour
 
         if (totalEnemies <= 0)
         {
-            int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
-            PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
-            PlayerPrefs.Save();
-
             SceneManager.LoadScene("WinningScene");
         }
     }
 }
+
+
+//int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
+//PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
+//PlayerPrefs.Save();
