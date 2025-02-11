@@ -7,6 +7,9 @@ public class FollowPlayer : MonoBehaviour
 
     void Update()
     {
-        transform.position = godzilla.position + offset;
+        if (godzilla != null)
+        {
+            transform.position = godzilla.position + offset;
+        }
     }
 }

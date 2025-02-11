@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 public class WinningScript : MonoBehaviour
 {
     private int totalEnemies;
+    public static float winningScore;
 
     private void FixedUpdate()
     {
@@ -11,12 +12,12 @@ public class WinningScript : MonoBehaviour
 
         if (totalEnemies <= 0)
         {
+            Timer.remainTimeScore = GameObject.FindFirstObjectByType<Timer>().remainingTime;
+
+            winningScore += Timer.remainTimeScore;
+
             SceneManager.LoadScene("WinningScene");
         }
     }
+
 }
-
-
-//int currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
-//PlayerPrefs.SetInt("LastPlayedLevel", currentLevelIndex);
-//PlayerPrefs.Save();

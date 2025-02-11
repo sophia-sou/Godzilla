@@ -224,6 +224,8 @@ MonoBehaviour:
   LeftBarrier: {fileID: 7045586558241908470, guid: 1d40692017465c14cadaf036534b3e34, type: 3}
   RightBarrier: {fileID: 275707570693166395, guid: d1d24b141f446d74d8ce58349e333753, type: 3}
   tankSpeed: 4
+  left: -32
+  right: 75.55
 --- !u!114 &7280548928990225035
 MonoBehaviour:
   m_ObjectHideFlags: 0

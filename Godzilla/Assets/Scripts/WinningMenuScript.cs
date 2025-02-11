@@ -8,9 +8,16 @@ public class WinningMenuScript : MonoBehaviour
 
     public void NextLevel()
     {
-        nextSceneIndex = prevScene + 1;
+        if (prevScene < 4)
+        {
+            nextSceneIndex = prevScene + 1;
 
-        SceneManager.LoadScene(nextSceneIndex); 
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            SceneManager.LoadScene("HighScores");
+        }
     }
 
     public void MainMenu()

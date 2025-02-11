@@ -7,18 +7,15 @@ public class Timer : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI timerText;
     [SerializeField] float countdownTime;
-    private float remainingTime;
+    public float remainingTime;
     public GameObject skullPrefab;
     public GameObject Godzilla;
 
-    private int prevScene = GodzillaHealth.previousSceneIndex;
-    public static float scoreLevel01;
-    public static float scoreLevel02;
-    public static float scoreLevel03;
+    public static float remainTimeScore;
 
     private void Start()
     {
-        remainingTime = countdownTime;  
+        remainingTime = countdownTime;
     }
     private void Update()
     {
@@ -48,24 +45,5 @@ public class Timer : MonoBehaviour
         int seconds = Mathf.FloorToInt(remainingTime % 60);
 
         timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
-    }
-
-    private void OnApplicationQuit()
-    {
-        if (prevScene == 2)
-        {
-            scoreLevel01 = remainingTime;
-            Debug.Log("you have this score in lvl 1" + scoreLevel01);
-        }
-        else if (prevScene == 3)
-        {
-            scoreLevel02 = remainingTime;
-            Debug.Log("you have this score in lvl 2" + scoreLevel02);
-        }
-        else if (prevScene == 4)
-        {
-            scoreLevel03 = remainingTime;
-            Debug.Log("you have this score in lvl 3" + scoreLevel03);
-        }
     }
 }

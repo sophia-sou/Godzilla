@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TankPatrol : MonoBehaviour
+public class PatrolLevel03 : MonoBehaviour
 {
     public GameObject LeftBarrier;
     public GameObject RightBarrier;
@@ -17,26 +17,26 @@ public class TankPatrol : MonoBehaviour
         currentPoint = LeftBarrier.transform;
     }
 
-    
+
     void Update()
     {
         //Vector2 point = currentPoint.position - transform.position;
 
-        if(currentPoint == LeftBarrier.transform)
+        if (currentPoint == LeftBarrier.transform)
         {
-            rb.linearVelocity = new Vector2 (-tankSpeed, 0);
+            rb.linearVelocity = new Vector2(-tankSpeed, 0);
         }
-        else 
+        else
         {
-            rb.linearVelocity = new Vector2 (tankSpeed, 0);
+            rb.linearVelocity = new Vector2(tankSpeed, 0);
         }
 
-        if (transform.position.x <= -32 && currentPoint == LeftBarrier.transform)
+        if (transform.position.x <= -24 && currentPoint == LeftBarrier.transform)
         {
             flip();
             currentPoint = RightBarrier.transform;
         }
-        if (transform.position.x >= 75.5 && currentPoint == RightBarrier.transform)
+        if (transform.position.x >= 20 && currentPoint == RightBarrier.transform)
         {
             flip();
             currentPoint = LeftBarrier.transform;

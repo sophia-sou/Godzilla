@@ -23,6 +23,8 @@ public class HelicopterDestraction : MonoBehaviour
 
             Destroy(gameObject);
 
+            Destroy(collision.gameObject);
+
             Destroy(laser, 1f);
         }
     }

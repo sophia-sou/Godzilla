@@ -6,17 +6,17 @@ using UnityEditor.Build.Content;
 
 public class SceneManage : MonoBehaviour
 {
-    public Text ScoreText;
-    public Button Button;
+    //public Text ScoreText;
+    //public Button Button;
 
-    private float startTime;
-    private float LastGameScore = 0f;
+    //private float startTime;
+    //private float LastGameScore = 0f;
 
-    private void Start()
-    {
-    //  LastGameScore = GameManager.Instance.GetLastGameScore();
-        startTime = Time.realtimeSinceStartup;
-       //isplayBestScores();
-    //  Button.onClick.AddListener(OnButtonClick);
-    }
+    //private void Start()
+    //{
+    ////  LastGameScore = GameManager.Instance.GetLastGameScore();
+    //    startTime = Time.realtimeSinceStartup;
+    //   //isplayBestScores();
+    ////  Button.onClick.AddListener(OnButtonClick);
+    //}
 }

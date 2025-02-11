@@ -328,6 +328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tankLaser: {fileID: 0}
+  kingAmmo: {fileID: 0}
   heart1: {fileID: 0}
   heart2: {fileID: 0}
   heart3: {fileID: 0}
