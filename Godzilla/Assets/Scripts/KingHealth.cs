@@ -5,7 +5,7 @@ public class KingHealth : MonoBehaviour
 {
     Rigidbody2D rb;
     public GameObject fireBall;
-    private float health = 5;
+    private float health = 15;
     private void Start()
     {
         rb = gameObject.GetComponent<Rigidbody2D>();

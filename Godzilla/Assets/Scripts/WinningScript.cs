@@ -2,8 +2,9 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class WinningScript : MonoBehaviour
-{
+{private int killCount = GameOver.killCount;
     private int totalEnemies;
+    private float sceneIndex = GodzillaHealth.previousSceneIndex;
     public static float winningScore;
 
     private void FixedUpdate()
@@ -17,6 +18,12 @@ public class WinningScript : MonoBehaviour
             winningScore += Timer.remainTimeScore;
 
             SceneManager.LoadScene("WinningScene");
+
+            if (sceneIndex == 4)//|| killCount==0&& sceneIndex==3)
+            {
+                HighScores.SetPendingScore(winningScore);
+                SceneManager.LoadScene("HighScores");
+            }
         }
     }
 

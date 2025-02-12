@@ -37,6 +37,7 @@ public class GodzillaHealth : MonoBehaviour
         rb = gameObject.GetComponent<Rigidbody2D>();
 
         previousSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        Debug.Log(previousSceneIndex);
     }
 
     private void OnCollisionEnter2D(Collision2D other)

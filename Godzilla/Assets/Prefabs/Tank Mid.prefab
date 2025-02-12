@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 0.0001
+  m_Mass: 0.05
   m_LinearDamping: 0
   m_AngularDamping: 0
   m_GravityScale: 0
@@ -224,8 +224,6 @@ MonoBehaviour:
   LeftBarrier: {fileID: 7045586558241908470, guid: 1d40692017465c14cadaf036534b3e34, type: 3}
   RightBarrier: {fileID: 275707570693166395, guid: d1d24b141f446d74d8ce58349e333753, type: 3}
   tankSpeed: 4
-  left: -32
-  right: 75.55
 --- !u!114 &7280548928990225035
 MonoBehaviour:
   m_ObjectHideFlags: 0
