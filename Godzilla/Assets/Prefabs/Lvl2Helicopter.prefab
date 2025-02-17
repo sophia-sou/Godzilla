@@ -108,8 +108,6 @@ MonoBehaviour:
   LeftBarrier: {fileID: 7045586558241908470, guid: 1d40692017465c14cadaf036534b3e34, type: 3}
   RightBarrier: {fileID: 275707570693166395, guid: d1d24b141f446d74d8ce58349e333753, type: 3}
   tankSpeed: 5
-  left: 0
-  right: 0
 --- !u!50 &6582333780446082257
 Rigidbody2D:
   serializedVersion: 5
